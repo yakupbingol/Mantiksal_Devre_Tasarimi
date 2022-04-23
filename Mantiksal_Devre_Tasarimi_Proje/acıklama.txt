@@ -1,0 +1,4 @@
+Ödevde istediği tüm işlemleri dinamik olarak
+yapmaktadır. Ödev dosyasında belirtilen şablon 
+gibi çıktı vermektedir. Kodum istenilen tüm durumları
+yapmaktadır.
